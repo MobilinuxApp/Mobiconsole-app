@@ -1,0 +1,30 @@
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:37
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:148
+-keep class com.termux.app.RunCommandService { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:55
+-keep class com.termux.app.TermuxActivity { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:91
+-keep class com.termux.app.TermuxHelpActivity { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:157
+-keep class com.termux.app.TermuxOpenReceiver { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:159
+-keep class com.termux.app.TermuxOpenReceiver$ContentProvider { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:145
+-keep class com.termux.app.TermuxService { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:134
+-keep class com.termux.filepicker.TermuxDocumentsProvider { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:98
+-keep class com.termux.filepicker.TermuxFileReceiverActivity { <init>(); }
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/src/main/res/layout/drawer_layout.xml:7
+-keep class androidx.drawerlayout.widget.DrawerLayout { <init>(...); }
+
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/src/main/res/layout/drawer_layout.xml:71
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/src/main/res/layout/extra_keys_main.xml:2
+-keep class com.termux.app.ExtraKeysView { <init>(...); }
+
+# Referenced at /home/agokhale/Termux/termux-app-android-5/app/src/main/res/layout/drawer_layout.xml:14
+-keep class com.termux.view.TerminalView { <init>(...); }
+

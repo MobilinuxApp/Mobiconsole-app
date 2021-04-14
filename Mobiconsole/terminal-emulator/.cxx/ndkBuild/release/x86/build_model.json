@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/agokhale/Termux/termux-app-android-5",
+      "sdkFolder": "/home/agokhale/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/build/intermediates",
+      "gradleModulePathName": ":terminal-emulator",
+      "moduleRootFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator",
+      "makeFile": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "/home/agokhale/Termux/termux-app-android-5/.cxx",
+      "cxxFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx",
+      "ndkFolder": "/home/agokhale/Android/Sdk/ndk/21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [
+      "-std\u003dc11",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Os",
+      "-fno-stack-protector",
+      "-Wl,--gc-sections"
+    ],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/build/intermediates/ndkBuild/release/lib",
+    "objFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/build/intermediates/ndkBuild/release/obj/local",
+    "jsonFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/ndkBuild/release",
+    "gradleBuildOutputFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/ndkBuild/release/x86",
+  "jsonFile": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/ndkBuild/release/x86/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/cxx/release/x86",
+  "objFolder": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/build/intermediates/ndkBuild/release/obj/local/x86",
+  "buildCommandFile": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/ndkBuild/release/x86/build_command.txt",
+  "buildOutputFile": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/ndkBuild/release/x86/build_output.txt",
+  "modelOutputFile": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/ndkBuild/release/x86/build_model.json",
+  "jsonGenerationLoggingRecordFile": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/ndkBuild/release/x86/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/agokhale/Termux/termux-app-android-5/terminal-emulator/.cxx/ndkBuild/release/x86/compile_commands.json"
+}
